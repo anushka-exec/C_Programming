@@ -1,2 +1,2 @@
 # C_Programming
-Program and Assignments for Logic Building
+Programs and Assignments for Logic Building
