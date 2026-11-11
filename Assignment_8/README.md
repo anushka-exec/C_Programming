@@ -1,11 +1,18 @@
-This repository contains various C programs written to practice fundamental programming concepts such as loops, functions, operators, conditional statements, and pattern printing.
+This repository contains various C programs written to practice fundamental programming concepts such as conditional statements, loops, operators, functions, and number manipulation.
 
-Programs Included :
-1) Program to accept number from user and print that number of $ and * on screen
-2) Program to accept number from user and print numbers till that number
-3) Program to accept number from user and print its number line
-4) Program to accept N from user and print all odd numbers up to N
-5) Program to accept N and print first 5 multiples of N
+Programs Included
+1) Accept a number from the user and:
+  Print "Small" if the number is less than 50
+  Print "Medium" if the number is greater than 50
+  Print "Large" if the number is greater than 100
+
+2) Accept a single digit from the user and display its corresponding word.
+
+3) Find the factorial of a given number.
+
+4) Accept a number from the user and display its multiplication table.
+
+5) Accept a number from the user and display its multiplication table in reverse order.
 
 How to Compile :
 Open Command Prompt and navigate to the program folder.
@@ -13,21 +20,21 @@ Open Command Prompt and navigate to the program folder.
 gcc ProgramName.c -o Myexe
 Example:
 
-gcc Program1.c -o Myexe
-gcc Program2.c -o Myexe
-gcc Program3.c -o Myexe
-gcc Program4.c -o Myexe
-gcc Program5.c -o Myexe
+gcc Program8_1.c -o Myexe
+gcc Program8_2.c -o Myexe
+gcc Program8_3.c -o Myexe
+gcc Program8_4.c -o Myexe
+gcc Program8_5.c -o Myexe
 
 How to Run :
 Myexe
 
 Folder Structure
-Assignment_7/
+Assignment_8/
 │
-├── Program7_1.c
-├── Program7_2.c
-├── Program7_3.c
-├── Program7_4.c
-├── Program7_5.c
+├── Program8_1.c
+├── Program8_2.c
+├── Program8_3.c
+├── Program8_4.c
+├── Program8_5.c
 └── README.md
