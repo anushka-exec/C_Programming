@@ -13,11 +13,11 @@ Open Command Prompt and navigate to the program folder.
 gcc ProgramName.c -o Myexe
 Example:
 
-gcc Program1.c -o Myexe
-gcc Program2.c -o Myexe
-gcc Program3.c -o Myexe
-gcc Program4.c -o Myexe
-gcc Program5.c -o Myexe
+gcc Program7_1.c -o Myexe
+gcc Program7_2.c -o Myexe
+gcc Program7_3.c -o Myexe
+gcc Program7_4.c -o Myexe
+gcc Program7_5.c -o Myexe
 
 How to Run :
 Myexe
