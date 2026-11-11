@@ -27,11 +27,11 @@ Open Command Prompt and navigate to the program folder.
 gcc ProgramName.c -o Myexe
 Example:
 
-gcc Program1.c -o Myexe
-gcc Program2.c -o Myexe
-gcc Program3.c -o Myexe
-gcc Program4.c -o Myexe
-gcc Program5.c -o Myexe
+gcc Program10_1.c -o Myexe
+gcc Program10_2.c -o Myexe
+gcc Program10_3.c -o Myexe
+gcc Program10_4.c -o Myexe
+gcc Program10_5.c -o Myexe
 
 How to Run :
 Myexe
@@ -39,9 +39,9 @@ Myexe
 Folder Structure
 Assignment_10/
 │
-├── Program1.c
-├── Program2.c
-├── Program3.c
-├── Program4.c
-├── Program5.c
+├── Program10_1.c
+├── Program10_2.c
+├── Program10_3.c
+├── Program10_4.c
+├── Program10_5.c
 └── README.md
