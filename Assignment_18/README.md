@@ -5,7 +5,7 @@ This repository contains five C programs to practice character and number patter
 
 Programs Included:
 
-1) Display a Character Pattern using '*' and '#'**
+1) Display a Character Pattern using '*' and '#'
 
 Accept the number of rows and columns from the user and display a triangular pattern using '*' and '#'.
 
@@ -21,7 +21,7 @@ Output:     *   #   #   #
             *   *   *   *
 
 
-2) Display an Inverted Character Pattern using '*' and '#'**
+2) Display an Inverted Character Pattern using '*' and '#'
 
 Accept the number of rows and columns from the user and display an inverted triangular pattern using '*' and '#'.
 
@@ -37,7 +37,7 @@ Output:     *   *   *   *
             *   #   #   #
 
 
-3) Display a Diagonal Pattern using '*' and '$'**
+3) Display a Diagonal Pattern using '*' and '$'
 
 Accept the number of rows and columns from the user and display a diagonal pattern using '*' and '$' characters.
 
@@ -54,7 +54,7 @@ Output:     $   *   *   *   *
             *   *   *   *   $
 
 
-4) Display a Hollow Rectangle using '*' and '@'**
+4) Display a Hollow Rectangle using '*' and '@'
 
 Accept the number of rows and columns from the user and display a hollow rectangular pattern using '*' for the boundary and '@' for the inner portion.
 
@@ -71,7 +71,7 @@ Output:     *   *   *   *   *
             *   *   *   *   *
 
 
-5) Display a Hollow Rectangle using Numbers and '*'**
+5) Display a Hollow Rectangle using Numbers and '*'
 
 Accept the number of rows and columns from the user and display a hollow rectangular pattern using numbers on the boundary and '*' in the inner portion.
 
@@ -89,6 +89,7 @@ Output:     1   2   3   4
 How to Compile
 
 Open Command Prompt and navigate to the program folder.
+
 Use the following GCC commands to compile each program:
 
 gcc Program18_1.c -o Myexe
@@ -101,6 +102,7 @@ gcc Program18_5.c -o Myexe
 How to Run
 
 After successful compilation, execute the program using:
+
 Myexe
 
 Note: Compile and run one program at a time. The '-o Myexe' option specifies the name of the executable file.
@@ -115,4 +117,4 @@ Assignment_18/
 ├── Program18_3.c
 ├── Program18_4.c
 ├── Program18_5.c
-└── README.txt
+└── README.md
